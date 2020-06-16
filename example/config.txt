@@ -1,0 +1,2 @@
+Prefix plugins/Redbiom/example
+Plugin Redbiom inputfile commands.txt outputfile results.txt
