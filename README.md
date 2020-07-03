@@ -1,7 +1,9 @@
+# Redbiom
 # Language: C++
 # Input: TXT
-# Output: none
-# Tested with: PluMA 1.0, GCC 4.8.4
+# Output: TXT
+# Tested with: PluMA 1.1, GCC 4.8.4
+# Dependency: Redbiom 0.3.5
 
 PluMA plugin to query the Earth Microbiome Project (EMP, Thompson et al 2017) database use the tool Redbiom (McDonald et al, 2019).  The plugin is counting on redbiom to be in the system PATH.
 
